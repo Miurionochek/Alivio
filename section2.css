@@ -1,0 +1,143 @@
+.second-section{
+    height: 128.33vh;
+    margin: 25vh 12.08vw 4.72vh 14.32vw;
+}
+.how-it-works{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-block{
+    height: 30.28vh;
+    width: 50%;
+}
+
+.title-block h2{
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 600;
+    color: #424242;
+}
+
+.title-block h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #01996D;
+    width: 30.42vw;
+}
+
+.description-block{
+    width: 34.95vw;
+    margin: 0vh 1.15vw 0vh 7.08vw;
+}
+
+.description-block p{
+    margin-top: 5.37vh;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+}
+
+.wrapper2{
+    display: flex;
+    justify-content: space-between;
+    height: 98.06vh;
+}
+
+.wrapper2 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 150px;
+    color: #01996D;
+    height: 20.83vh;;
+    opacity: 0.2;
+    margin: 0;
+}
+
+.wrapper2 h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.first-card{
+    position: relative;
+    bottom: 7.59vh;
+    width: 20.31vw;
+    height: 86.76vh;
+}
+
+.flex-wrapper2{
+    display: flex;
+}
+
+.h2-wrapper21{
+    position: relative;
+    top: 8.43vh;
+    right: 3.54vw;
+    height: 4.17vh;
+    width: 9.43vw;
+    text-align: center;
+}
+
+.second-card{
+    position: relative;
+    top: 18.95vh;
+    width: 20.42vw;
+    height: 79.07vh;
+}
+
+.h2-wrapper22{
+    position: relative;
+    top: 8.33vh;
+    right: 5.05vw;
+    width: 16.3vw;
+    height: 4.17vh;
+    text-align: center;
+}
+.h2-wrapper22 h2{
+    width: 16.41vw;
+}
+
+.third-card{
+    position: relative;
+    bottom: 2.59vh;
+    width: 22.97vw;
+    height: 79.26vh;
+}
+
+.h2-wrapper23{
+    position: relative;
+    top: 8.33vh;
+    right: 2.66vw;
+    width: 5.31vw;
+    height: 9.43vh;
+    text-align: center;
+}
+
+.wrapper2 p{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+}
+
+.first-card p{
+    width: 19.9vw;
+    margin-bottom: 5.46vh;
+}
+
+.second-card p{
+    margin-bottom: 3.43vh;
+}
+
+.third-card p{
+    margin-bottom: 4.44vh;
+}
+
+.wrapper2 img{
+    width: 20.31vw;
+    height: 45.56vh;
+}

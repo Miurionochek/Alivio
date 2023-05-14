@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Avenir;
+    src: url(./fonts/avenir/Metropolis-Regular.otf);
+}
+
+footer{
+    height: 60.56vh;
+    background-color: #245852;
+}
+
+.navigate{
+    margin-left: 14.32vw;
+    width: 6.72vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav-content{
+    height: 38.43vh;
+    margin-top: 8.8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1 a{
+    font-family: Avenir;
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFFFFF
+}
+
+h2 a{
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+a:link, a:visited{
+color: #FFFFFF;
+}
+
+.links{
+    float: right;
+    height: 13.97vh;
+    width: 56.04vw;
+    position: relative;
+    bottom: 3.61vh;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2.81vw;
+    
+}
+
+.social-links{
+    height: 7.77vh;
+    width: 18.61vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6.3vh;
+}
+
+.download-links h1{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 6.77vw;
+    margin-bottom: 5.28vh;
+}

@@ -1,0 +1,40 @@
+.third-section{
+    height: 85.37vh;
+    background-color: #245852;
+}
+
+.wrapper3{
+    display: flex;
+    font-family: Lato;
+    padding: 21.2vh 10.73vw 16.39vh 10.78vw;
+    height: 48.15vh;
+}
+
+.headline h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.headline p{
+    font-weight: 500;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.headline button{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 2.6vh 2.78vw;
+    margin-top: 5.28vh;
+    border: 0;
+    background-color: #01996D;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.video img{
+    width: 46.66vw;
+    height: 47.79vh;
+}
